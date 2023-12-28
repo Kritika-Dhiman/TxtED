@@ -2,17 +2,6 @@
 TxtEd is a minimalist yet powerful text editor designed for simplicity and efficiency. Whether you're a developer, writer, or student, TxtEd provides a seamless editing experience with essential features and a clean interface.
 
 
-
-
-
-
-
-
-
-
-
-
-
 from tkinter import *
 from tkinter.ttk import *
 from tkinter import font, colorchooser, filedialog, messagebox
